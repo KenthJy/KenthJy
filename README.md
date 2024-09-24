@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">Languages:</p>
+<p align="center">Languages and Softwares:</p>
 
 ###
 
