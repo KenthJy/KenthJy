@@ -62,10 +62,13 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+ <a href="https://www.freecodecamp.org/not_kennut" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_31c9P3OR482sLUuaq-hC68tr2kkHczONJk3QPx9B7hihfdIV-rtjOE3hv7iXz70r0eM&usqp=CAU" width="52" height="40" alt="freecode camp logo"  />
+  </a>
+ <a href="https://v2.scrimba.com/@KenthJy" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2M6ZX26WAtIm0788VhTkakQ-DG_3XjD13uQ&s" width="52" height="40" alt="scrimba logo"  />
+  </a>
+
 </div>
 
 ###
