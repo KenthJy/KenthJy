@@ -37,7 +37,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/Z4yiwdjkVgQAAAAi/pikachu-wink.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif"  />
 
 ###
 
