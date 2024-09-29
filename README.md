@@ -1,4 +1,4 @@
-<h3 align="left">Hello !👋 I am Ken a passionate Front-end Developer from Philippines</h3>
+<h3 align="left">Name's Ken, a Front-end Developer</h3>
 
 ###
 
