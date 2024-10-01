@@ -1,4 +1,4 @@
-<h3 align="left">Name's Ken, Learning Front-end Developer</h3>
+<h3 align="left">Name's Ken, Learning Front-end </h3>
 
 ###
 
