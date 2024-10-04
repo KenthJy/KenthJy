@@ -1,4 +1,4 @@
-<h3 align="left">Name's Ken, Learning Front-end </h3>
+<h3 align="left">Name's Ken Learning Front-end</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">Languages and Softwares:</p>
+<p align="center">Languages:</p>
 
 ###
 
@@ -22,13 +22,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
 </div>
 
 ###
@@ -37,7 +43,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/6kJxRKZdLSsAAAAi/mochi-cat-peach-she-was-hot-she-went-to-the-fan-and-she-have-flu-now-she-dont.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif"  />
 
 ###
 
@@ -53,22 +59,6 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
-
-###
-
-<p align="left">My Other profiles :</p>
-
-###
-
-<div align="left">
- <a href="https://www.freecodecamp.org/not_kennut" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_31c9P3OR482sLUuaq-hC68tr2kkHczONJk3QPx9B7hihfdIV-rtjOE3hv7iXz70r0eM&usqp=CAU" width="52" height="40" alt="freecode camp logo"  />
-  </a>
- <a href="https://v2.scrimba.com/@KenthJy" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2M6ZX26WAtIm0788VhTkakQ-DG_3XjD13uQ&s" width="52" height="40" alt="scrimba logo"  />
-  </a>
-
 </div>
 
 ###
