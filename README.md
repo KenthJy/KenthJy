@@ -1,4 +1,4 @@
-<h3 align="left">Front-end Developer / React Developer</h3>
+<h3 align="left">Front-end / React Developer</h3>
 
 ###
 
