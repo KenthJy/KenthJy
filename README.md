@@ -1,5 +1,5 @@
 <h1>Name's Ken</h1> 
-<p>I like Quant trading, ML and Web Dev</p>
+<p>I like cars, finance and coding.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
